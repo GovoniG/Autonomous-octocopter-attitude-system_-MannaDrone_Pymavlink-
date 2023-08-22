@@ -145,7 +145,6 @@ magnitude, direction = final_dir(the_connection)
 
 print("", direction)
 
-#x = y = z = 0
 
 x, y, z = drop_p(ro, Cd, A, m, g, L, x, y, z, the_connection, magnitude, direction)
 
