@@ -126,44 +126,23 @@ time.sleep(1)
 
 
 
+# STATE 1 
 Initial_Asset(1, 30, the_connection)
 
+# STATE 2
 x, y, z = flyto(10, 10, 30, 0, 0, 0, 0, the_connection)
 
-#x, y, z = drop_p(ro, Cd, A, m, g, L, R, x, y, z, the_connection)
-
-print("\n")
-
-# turning to the asset and check the wind 
-yaw(0,-25,0,0, the_connection)
-
-
-
-
+# STATE 3
 magnitude, direction = final_dir(the_connection)
 
-
-print("", direction)
-
-
+# STATE 4
 x, y, z = drop_p(ro, Cd, A, m, g, L, x, y, z, the_connection, magnitude, direction)
 
-
-
-
-
-
-
-############################## CAME BACK 
-
+# STATE 5
 x, y, z = flyto(0, 0, 30, 22, x, y, z, the_connection)
 
-
-
-############################## LANDING
-
+# STATE 6 
 landing(x, y, z, the_connection)
-
 
 
 
