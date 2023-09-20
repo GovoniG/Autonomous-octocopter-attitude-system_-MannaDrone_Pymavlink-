@@ -9,12 +9,14 @@ Testing of all instructions executed via the pymavlink protocol [https://mavlink
 
 Initial state machine created to execute a typical delivery profile, from takeoff to delivery following safety procedures, to return of the aircraft to the launch site.
 
-<img src="images/graphMPL.PNG" height=500>
+Delivery profile (altitude vs. time)
+
+<img src="images/graphMPL.png" height=400>
+
 
 
 
 ## 3] Final_integration
 
-<img src="images/graphMPL.png" height=250>
-
+<img src="images/1.PNG" height=250>
 
