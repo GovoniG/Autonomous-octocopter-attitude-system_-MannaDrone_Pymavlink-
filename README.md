@@ -15,6 +15,6 @@ Initial state machine created to execute a typical delivery profile, from takeof
 
 ## 3] Final_integration
 
-<img src="images/1.PNG" height=250>
+<img src="images/graphMPL.png" height=250>
 
 
