@@ -3,8 +3,7 @@
 This repository provides the project done during the curricular internship at Manna Drone Delivery ['https://www.manna.aero/'].
 
 ## 1] Pymavlink 
-[https://mavlink.io/en/]
-Testing of all instructions executed via the pymavlink protocol and later used in the final State Machine.
+Testing of all instructions executed via the pymavlink protocol [https://mavlink.io/en/] and later used in the final State Machine.
 
 ## 2] InitialStateMachine
 
