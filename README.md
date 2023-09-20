@@ -1,7 +1,8 @@
 # Autonomous octocopter attitude system
 
-This repository provides a Gazebo simulation of the Navigation and Science Task for the EuropeanRoverChallenge Remote competition. \
-For the dockerized version, skip to the [Using Docker](#using-docker) section.
+This repository provides the project done during the curricular internship at Manna Drone Delivery ['https://www.manna.aero/'].
+
+
 
 ## Table of Contents
 
