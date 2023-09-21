@@ -37,6 +37,7 @@ resulting wind force on the drone and therefore on the package, without using ot
 collecting local weather data.
 
 
+(Software architecture UML Diagram)
 
 <img src="images/2.PNG" height=350>  
 
@@ -45,6 +46,7 @@ collecting local weather data.
   <img src="images/1.PNG" height=350 /> 
 </p>
 
+(Poster presentation)
 
-
+<img src="images/FinalPoster.jpg" height=1100>  
 
