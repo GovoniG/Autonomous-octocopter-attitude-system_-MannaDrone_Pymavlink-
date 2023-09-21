@@ -23,5 +23,5 @@ Delivery profile (altitude vs. time)
 
 
 
-<img src="images/1.PNG" height=350>
-
+<img src="images/2.PNG" height=350>
+<img src="images/3.png" height=350>
